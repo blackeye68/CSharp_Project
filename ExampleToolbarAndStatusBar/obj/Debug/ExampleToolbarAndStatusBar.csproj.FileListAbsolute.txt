@@ -1,0 +1,10 @@
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\bin\Debug\ExampleToolbarAndStatusBar.exe.config
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\bin\Debug\ExampleToolbarAndStatusBar.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\bin\Debug\ExampleToolbarAndStatusBar.pdb
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.csprojResolveAssemblyReference.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.Form1.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.Properties.Resources.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.csproj.GenerateResource.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.csproj.CoreCompileInputs.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Tranning2\ExampleToolbarAndStatusBar\obj\Debug\ExampleToolbarAndStatusBar.pdb
