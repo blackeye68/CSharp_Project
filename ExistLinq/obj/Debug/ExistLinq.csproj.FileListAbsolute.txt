@@ -1,0 +1,10 @@
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\bin\Debug\ExistLinq.exe.config
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\bin\Debug\ExistLinq.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\bin\Debug\ExistLinq.pdb
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.csprojAssemblyReference.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.Form1.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.Properties.Resources.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.csproj.GenerateResource.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.csproj.CoreCompileInputs.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ExistLinq\obj\Debug\ExistLinq.pdb
