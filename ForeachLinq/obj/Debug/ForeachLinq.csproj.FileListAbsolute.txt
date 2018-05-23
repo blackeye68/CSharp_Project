@@ -1,0 +1,10 @@
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\bin\Debug\ForeachLinq.exe.config
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\bin\Debug\ForeachLinq.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\bin\Debug\ForeachLinq.pdb
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.csprojAssemblyReference.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.Form1.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.Properties.Resources.resources
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.csproj.GenerateResource.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.csproj.CoreCompileInputs.cache
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.exe
+E:\CSharpToturial\anhducfullstack\source\Self-Training3\ST3\ForeachLinq\obj\Debug\ForeachLinq.pdb
